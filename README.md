@@ -14,7 +14,7 @@
 
 This is my personal developer portfolio showcasing two real-world plugin development projects — a large-scale e-commerce migration and a custom bidding extension — both built from scratch with deep stress testing and zero tolerance for bugs.
 
-**Live at:** [https://syedmukhashif.github.io/kurtsaz-portfolio](https://syedmukhashif.github.io/kurtsaz-portfolio)
+**Live at:** [ https://syedmukhashif.github.io/OW-Product-Exporter/ ]
 
 ---
 
@@ -197,4 +197,4 @@ git push -u origin main
 ```
 
 Then go to **Settings → Pages → Source: main branch / root** and your site will be live at:
-`https://syedmukhashif.github.io/kurtsaz-portfolio`
+[ https://syedmukhashif.github.io/OW-Product-Exporter/ ]
